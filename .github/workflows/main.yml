@@ -31,5 +31,5 @@ jobs:
                git config --global user.name "csv2geojson bot" 
       - name: commit changed files
         run: git commit -m "Auto update of map" places.geojson
-      - name: push code to master
-        run: git push origin master
+      - name: push code to main
+        run: git push origin main
