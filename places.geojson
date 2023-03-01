@@ -12,7 +12,5 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Pub", "name": "Bull's Head Inn", "creator" : " Charlotte", "comment" : " Pub on Anglesey" },
 "geometry": { "type": "Point", "coordinates": [ -4.0920, 53.2659] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Restaurant", "name": "Moiim", "creator" : " Chanmi", "comment" : " Please try Kimchi pork ribs" },
-"geometry": { "type": "Point", "coordinates": [ -2.971148, 53.407145] } },
-{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "", "name": "", "creator" : "", "comment" : "" },
-"geometry": { "type": "Point", "coordinates": [,] } }
+"geometry": { "type": "Point", "coordinates": [ -2.971148, 53.407145] } }
 ] }
