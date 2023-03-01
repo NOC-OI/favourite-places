@@ -6,5 +6,7 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " lunch", "name": "derek's noodle bar", "creator" : " xiaoyan", "comment" : " authentic Chinese noodles" },
 "geometry": { "type": "Point", "coordinates": [ -2.99, 53.4] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Sea loch/voe", "name": "Ronas Voe", "creator" : " Dougal", "comment" : " remote" },
-"geometry": { "type": "Point", "coordinates": [ -1.4994411853835743,60.53002984665275] } }
+"geometry": { "type": "Point", "coordinates": [ -1.4994411853835743,60.53002984665275] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Restaurant", "name": "Moiim", "creator" : " Chanmi", "comment" : " Please try Kimchi pork ribs" },
+"geometry": { "type": "Point", "coordinates": [ -2.971148, 53.407145] } }
 ] }
