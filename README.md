@@ -29,3 +29,10 @@ See the lesson content at https://noc-oi.github.io/git-novice/08-collab/index.ht
 * The repository owner has to resolve any conflicts during the pull request acceptance.
 
 
+## Troubleshooting
+
+If the geojson doesn't build check the following:
+
+* the github actions error log
+* that the CSV file shows a table outline, if it doesn't this is a sign that one line has too few or too many fields
+* paste the geojson into [geojson lint](https://geojsonlint.com/)
