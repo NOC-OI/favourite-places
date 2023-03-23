@@ -11,6 +11,8 @@ This git repository is used for practicing collaboration between users of Github
 
 ## Exercise Suggestions
 
+See the lesson content at https://noc-oi.github.io/git-novice/08-collab/index.html for better writeups of these exercises.
+
 ### Everyone commit to the same repository
 
 * Everyone in the workshop is given write access to this repository.
