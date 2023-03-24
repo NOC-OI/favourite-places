@@ -7,7 +7,7 @@
 "geometry": { "type": "Point", "coordinates": [ -2.99, 53.4] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " building", "name": "Liver building", "creator" : " anonymous", "comment" : " big building" },
 "geometry": { "type": "Point", "coordinates": [ -2.996025, 53.405797] } },
-{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Slipway", "name": "Ronas Voe - Shetland", "creator" : " Dougal", "comment" : " remote" },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Sea loch", "name": "Ronas Voe - Shetland", "creator" : " Dougal", "comment" : " remote" },
 "geometry": { "type": "Point", "coordinates": [ -1.4994411853835743,60.53002984665275] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Pub", "name": "Bull's Head Inn", "creator" : " Charlotte", "comment" : " Pub on Anglesey" },
 "geometry": { "type": "Point", "coordinates": [ -4.0920, 53.2659] } },
@@ -17,8 +17,10 @@
 "geometry": { "type": "Point", "coordinates": [ -3.003128,53.650969] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Little Devil's", "creator" : " vlad", "comment" : " black pudding (yuck black pudding)" },
 "geometry": { "type": "Point", "coordinates": [ -4.081978, 52.414381] } },
-{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Sophie's", "creator" : " Colin", "comment" : " good cooked breakfast" },
-"geometry": { "type": "Point", "coordinates": [ milkshakes and burgers, -4.08255] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Pub", "name": "The Roscoe Head", "creator" : " Paul", "comment" : " Great Beer and atmosphere" },
+"geometry": { "type": "Point", "coordinates": [ -2.97411, 53.40224] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Sophie's", "creator" : " Colin", "comment" : " good cooked breakfast milkshakes and burgers" },
+"geometry": { "type": "Point", "coordinates": [ -4.08255, 52.415250] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " dock", "name": "Albert Dock", "creator" : " Gergely", "comment" : " plenty of options" },
 "geometry": { "type": "Point", "coordinates": [ -2.991972,53.399391] } }
 ] }
