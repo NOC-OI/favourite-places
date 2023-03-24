@@ -18,5 +18,5 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Little Devil's", "creator" : " vlad", "comment" : " black pudding (yuck black pudding)" },
 "geometry": { "type": "Point", "coordinates": [ -4.081978, 52.414381] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " dock", "name": "Albert Dock", "creator" : " Gergely", "comment" : " plenty of options" },
-"geometry": { "type": "Point", "coordinates": [ 53.399391, -2.991972] } }
+"geometry": { "type": "Point", "coordinates": [ -2.991972,53.399391] } }
 ] }
