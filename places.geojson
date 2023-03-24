@@ -7,12 +7,16 @@
 "geometry": { "type": "Point", "coordinates": [ -2.99, 53.4] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " building", "name": "Liver building", "creator" : " anonymous", "comment" : " big building" },
 "geometry": { "type": "Point", "coordinates": [ -2.996025, 53.405797] } },
-{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Sea loch/voe", "name": "Ronas Voe - Shetland", "creator" : " Dougal", "comment" : " remote" },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Slipway", "name": "Ronas Voe - Shetland", "creator" : " Dougal", "comment" : " remote" },
 "geometry": { "type": "Point", "coordinates": [ -1.4994411853835743,60.53002984665275] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Pub", "name": "Bull's Head Inn", "creator" : " Charlotte", "comment" : " Pub on Anglesey" },
 "geometry": { "type": "Point", "coordinates": [ -4.0920, 53.2659] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Restaurant", "name": "Moiim", "creator" : " Chanmi", "comment" : " Please try Kimchi pork ribs" },
 "geometry": { "type": "Point", "coordinates": [ -2.971148, 53.407145] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Restaurant", "name": "Thai Rice", "creator" : "Jo", "comment" : " Decent Thai in Southport" },
-"geometry": { "type": "Point", "coordinates": [ -3.003128,53.650969] } }
+"geometry": { "type": "Point", "coordinates": [ -3.003128,53.650969] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Little Devil's", "creator" : " vlad", "comment" : " black pudding (yuck black pudding)" },
+"geometry": { "type": "Point", "coordinates": [ -4.081978, 52.414381] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " dock", "name": "Albert Dock", "creator" : " Gergely", "comment" : " plenty of options" },
+"geometry": { "type": "Point", "coordinates": [ 53.399391, -2.991972] } }
 ] }
