@@ -18,5 +18,7 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafŽ", "name": "My favourite cafŽ", "creator" : "Jen", "comment" : "Food!" },
 "geometry": { "type": "Point", "coordinates": [-1.40445,60.53002985] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " lunch", "name": "Tuga Copos Bournemouth", "creator" : " Filipa", "comment" : " Awesome portuguese food" },
-"geometry": { "type": "Point", "coordinates": [ -1.833987, 50.728020] } }
+"geometry": { "type": "Point", "coordinates": [ -1.833987, 50.728020] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Araceli's Woking", "creator" : " Hans", "comment" : " Venuzuelan and Mexican food" },
+"geometry": { "type": "Point", "coordinates": [51.318523402123496, -0.5589009780842423] } }
 ] }
