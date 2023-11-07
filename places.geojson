@@ -16,5 +16,7 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " lunch", "name": "Dominos Pizza", "creator" : " Harry", "comment" : " Greasy Pizza at Extortionate Prices" },
 "geometry": { "type": "Point", "coordinates": [-1.40445,50.91914] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafŽ", "name": "My favourite cafŽ", "creator" : "Jen", "comment" : "Food!" },
-"geometry": { "type": "Point", "coordinates": [-1.40445,60.53002985] } }
+"geometry": { "type": "Point", "coordinates": [-1.40445,60.53002985] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " lunch", "name": "Tuga Copos Bournemouth", "creator" : " Filipa", "comment" : " Awesome portuguese food" },
+"geometry": { "type": "Point", "coordinates": [ -1.833987, 50.728020] } }
 ] }
