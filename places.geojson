@@ -9,10 +9,12 @@
 "geometry": { "type": "Point", "coordinates": [-2.996025,53.405797] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Slipway", "name": "Ronas Voe - Shetland", "creator" : " Dougal", "comment" : " remote seagulls eat your lunch" },
 "geometry": { "type": "Point", "coordinates": [-1.499441185,60.53002985] } },
-{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Lahul", "name": "Rohtang Pass", "creator" : " India", "comment" : "mountain" },
-"geometry": { "type": "Point", "coordinates": [Sree,Cool hilly place] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "mountain", "name": "Rohtang Pass - Lahul - India", "creator" : "Sree", "comment" : "Cool hilly place" },
+"geometry": { "type": "Point", "coordinates": [77.2462692,32.3710034] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "Bar", "name": "Dancing Man Brewery", "creator" : "Nathan", "comment" : "pub near NOC" },
 "geometry": { "type": "Point", "coordinates": [-1.4062509,50.8976432] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " lunch", "name": "Dominos Pizza", "creator" : " Harry", "comment" : " Greasy Pizza at Extortionate Prices" },
-"geometry": { "type": "Point", "coordinates": [-1.40445,50.91914] } }
+"geometry": { "type": "Point", "coordinates": [-1.40445,50.91914] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafŽ", "name": "My favourite cafŽ", "creator" : "Jen", "comment" : "Food!" },
+"geometry": { "type": "Point", "coordinates": [-1.40445,60.53002985] } }
 ] }
