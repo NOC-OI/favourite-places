@@ -10,7 +10,7 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Slipway", "name": "Ronas Voe - Shetland", "creator" : " Dougal", "comment" : " remote seagulls eat your lunch" },
 "geometry": { "type": "Point", "coordinates": [-1.499441185,60.53002985] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "mountain", "name": "Rohtang Pass - Lahul - India", "creator" : "Sree", "comment" : "Cool hilly place" },
-"geometry": { "type": "Point", "coordinates": [77.2462692,32.3710034] } },
+"geometry": { "type": "Point", "coordinates": [77.2462692,32.3710034] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "Bar", "name": "Dancing Man Brewery", "creator" : "Nathan", "comment" : "pub near NOC" },
 "geometry": { "type": "Point", "coordinates": [-1.4062509,50.8976432] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " lunch", "name": "Dominos Pizza", "creator" : " Harry", "comment" : " Greasy Pizza at Extortionate Prices" },
@@ -20,5 +20,5 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " lunch", "name": "Tuga Copos Bournemouth", "creator" : " Filipa", "comment" : " Awesome portuguese food" },
 "geometry": { "type": "Point", "coordinates": [ -1.833987, 50.728020] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Araceli's Woking", "creator" : " Hans", "comment" : " Venuzuelan and Mexican food" },
-"geometry": { "type": "Point", "coordinates": [51.318523402123496, -0.5589009780842423] } }
+"geometry": { "type": "Point", "coordinates": [51.318523402123496, -0.5589009780842423] } }
 ] }
