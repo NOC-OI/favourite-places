@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-name,symbol,creator,comments,lon,lat
-The Two Hoots, Cafe, Colin, good sandwiches,-3.854604,52.376295
-Baravin, Restaurant-pizza, Colin, good pizza,-4.0844,52.417025
-derek's noodle bar, lunch, xiaoyan, authentic Chinese noodles,-2.99,53.4
-Liver building, building, anonymous, big building,-2.996025,53.405797
-Ronas Voe - Shetland, Slipway, Dougal, remote seagulls eat your lunch,-1.499441185,60.53002985
-"Rohtang Pass, Lahul, India",mountain,Sree,Cool hilly place,77.2462692,32.3710034
-Araceli's Woking,cafe,Hans, Incredible Venezuelan/Mexican food, 51.318519731535076, -0.55889678306549
-=======
 name,symbol,creator,comments,lon,lat,,
 The Two Hoots, Cafe, Colin, good sandwiches,-3.854604,52.376295,,
 Baravin, Restaurant-pizza, Colin, good pizza,-4.0844,52.417025,,
@@ -17,5 +7,4 @@ Ronas Voe - Shetland, Slipway, Dougal, remote seagulls eat your lunch,-1.4994411
 Rohtang Pass, Lahul, India,mountain,Sree,Cool hilly place,77.2462692,32.3710034
 Dancing Man Brewery,Bar,Nathan,pub near NOC,-1.4062509,50.8976432,,
 Dominos Pizza, lunch, Harry, Greasy Pizza at Extortionate Prices,-1.40445,50.91914,,
-Araceli's Woking,cafe,Hans, Incredible Venezuelan/Mexican food, 51.318519731535076, -0.55889678306549
->>>>>>> e38af3565c982f927427d30aace3877ead9a0eba
+My favourite café,café,Jen,Food!,-1.40445,60.53002985,,
