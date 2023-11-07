@@ -22,5 +22,7 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Sophie's", "creator" : " Colin", "comment" : " good cooked breakfast milkshakes and burgers" },
 "geometry": { "type": "Point", "coordinates": [ -4.08255, 52.415250] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " dock", "name": "Albert Dock Cafe", "creator" : " Gergely", "comment" : " plenty of options" },
-"geometry": { "type": "Point", "coordinates": [ -2.991972,53.399391] } }
+"geometry": { "type": "Point", "coordinates": [ -2.991972,53.399391] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Fazenda", "creator" : " Tobias", "comment" : " a worderful meat" },
+"geometry": { "type": "Point", "coordinates": [ -2.9922775195948472, 53.407888989863686] } }
 ] }
