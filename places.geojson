@@ -1,14 +1,14 @@
 { "type": "FeatureCollection", "features": [
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Cafe", "name": "The Two Hoots", "creator" : " Colin", "comment" : " good sandwiches" },
-"geometry": { "type": "Point", "coordinates": [-3.854604,52.376295] } },
+"geometry": { "type": "Point", "coordinates": [-3.854604,52.376295] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Restaurant-pizza", "name": "Baravin", "creator" : " Colin", "comment" : " good pizza" },
-"geometry": { "type": "Point", "coordinates": [-4.0844,52.417025] } },
+"geometry": { "type": "Point", "coordinates": [-4.0844,52.417025] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " lunch", "name": "derek's noodle bar", "creator" : " xiaoyan", "comment" : " authentic Chinese noodles" },
-"geometry": { "type": "Point", "coordinates": [-2.99,53.4] } },
+"geometry": { "type": "Point", "coordinates": [-2.99,53.4] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " building", "name": "Liver building", "creator" : " anonymous", "comment" : " big building" },
-"geometry": { "type": "Point", "coordinates": [-2.996025,53.405797] } },
+"geometry": { "type": "Point", "coordinates": [-2.996025,53.405797] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Slipway", "name": "Ronas Voe - Shetland", "creator" : " Dougal", "comment" : " remote seagulls eat your lunch" },
-"geometry": { "type": "Point", "coordinates": [-1.499441185,60.53002985] } },
+"geometry": { "type": "Point", "coordinates": [-1.499441185,60.53002985] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Lahul", "name": ""Rohtang Pass", "creator" : " India"", "comment" : "mountain" },
 "geometry": { "type": "Point", "coordinates": [Sree,Cool hilly place] } }
 ] }
