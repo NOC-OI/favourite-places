@@ -37,7 +37,7 @@
 "geometry": { "type": "Point", "coordinates": [ -2.977367, 53.402424] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " coffee", "name": "COFFI", "creator" : " Jeff", "comment" : " tasty" },
 "geometry": { "type": "Point", "coordinates": [ -2.977367, 53.4024] } },
-{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " restaurant", "name": "Shanghai Places", "creator" : " Colin", "comment" : " not been here either" },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " restaurant", "name": "Shanghai Palace", "creator" : " Colin", "comment" : " not been here either" },
 "geometry": { "type": "Point", "coordinates": [ -2.980835, 53.404419] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Pub", "name": "The White Rabbit", "creator" : " Esther", "comment" : " Maybe the best pizza in Oxford?" },
 "geometry": { "type": "Point", "coordinates": [ -1.2632956, 51.7544476] } }
