@@ -34,5 +34,9 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Pub", "name": "The Roscoe Head", "creator" : " Paul", "comment" : " Great Beer and atmosphere" },
 "geometry": { "type": "Point", "coordinates": [ -2.97411, 53.40224] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Restaurant", "name": "Honest Burgers", "creator" : " Colin", "comment" : " I've not been here yet" },
-"geometry": { "type": "Point", "coordinates": [ -2.977367, 53.402424] } }
+"geometry": { "type": "Point", "coordinates": [ -2.977367, 53.402424] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " coffee", "name": "COFFI", "creator" : " Jeff", "comment" : " tasty" },
+"geometry": { "type": "Point", "coordinates": [ -2.977367, 53.402424] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Pub", "name": "The White Rabbit", "creator" : " Esther", "comment" : " Maybe the best pizza in Oxford?" },
+"geometry": { "type": "Point", "coordinates": [ -1.2632956, 51.7544476] } }
 ] }
