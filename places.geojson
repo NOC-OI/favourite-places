@@ -32,5 +32,7 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Fazenda", "creator" : " Tobias", "comment" : " a worderful meat" },
 "geometry": { "type": "Point", "coordinates": [ -2.9922775195948472, 53.407888989863686] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Pub", "name": "The Roscoe Head", "creator" : " Paul", "comment" : " Great Beer and atmosphere" },
-"geometry": { "type": "Point", "coordinates": [ -2.97411, 53.40224] } }
+"geometry": { "type": "Point", "coordinates": [ -2.97411, 53.40224] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Restaurant", "name": "Honest Burgers", "creator" : " Colin", "comment" : " I've not been here yet" },
+"geometry": { "type": "Point", "coordinates": [ -2.977367, 53.402424] } }
 ] }
