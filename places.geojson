@@ -40,5 +40,7 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " restaurant", "name": "Shanghai Palace", "creator" : " Colin", "comment" : " not been here either" },
 "geometry": { "type": "Point", "coordinates": [ -2.980835, 53.404419] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Pub", "name": "The White Rabbit", "creator" : " Esther", "comment" : " Maybe the best pizza in Oxford?" },
-"geometry": { "type": "Point", "coordinates": [ -1.2632956, 51.7544476] } }
+"geometry": { "type": "Point", "coordinates": [ -1.2632956, 51.7544476] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "place", "name": "Cwm Penmachno", "creator" : "Steve", "comment" : "No internet No phone signal BLISS" },
+"geometry": { "type": "Point", "coordinates": [-3.803155,53.039587] } }
 ] }
