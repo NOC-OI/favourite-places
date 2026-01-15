@@ -60,5 +60,7 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Hanoi bistro", "creator" : " Daisy", "comment" : " Good Vietnamese food" },
 "geometry": { "type": "Point", "coordinates": [ -1.4016102423279106, 50.902018958106964] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " pub", "name": "The Willow Tree", "creator" : " Tina", "comment" : " cozy pub with a fire" },
-"geometry": { "type": "Point", "coordinates": [ 51.06444931281902, -1.3080559411730468] } }
+"geometry": { "type": "Point", "coordinates": [-1.3080559, 51.06444931281902] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "place", "name": "Monterey Bay", "creator" : "Anieke", "comment" : "so many whales!" },
+"geometry": { "type": "Point", "coordinates": [-121.9380,36.78245] } }
 ] }
