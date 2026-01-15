@@ -45,10 +45,22 @@
 "geometry": { "type": "Point", "coordinates": [ 2.324772, 48.841911] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "place", "name": "Cwm Penmachno", "creator" : "Steve", "comment" : "No internet No phone signal BLISS" },
 "geometry": { "type": "Point", "coordinates": [-3.803155,53.039587] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Cafe", "name": "Make and Brew", "creator" : " Christine", "comment" : " great flat white" },
+"geometry": { "type": "Point", "coordinates": [ -1.424580468599939, 50.923730] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "The Galley", "creator" : "Colin", "comment" : "very expensive" },
 "geometry": { "type": "Point", "coordinates": [-1.394880,50.892316] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "Restaurant", "name": "The Vaults", "creator" : "Esther", "comment" : "Pizza in Wavtage" },
 "geometry": { "type": "Point", "coordinates": [-1.4256430864334106,51.58842468261719] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Hanoi bistro", "creator" : " Daisy", "comment" : " Good Vietnamese food" },
-"geometry": { "type": "Point", "coordinates": [ -1.4016102423279106, 50.902018958106964] } }
+"geometry": { "type": "Point", "coordinates": [ -1.4016102423279106, 50.902018] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Bakery", "name": "Maison Pilon", "creator" : " Afroosa", "comment" : " Patries and cakes" },
+"geometry": { "type": "Point", "coordinates": [1.444209,43.604652] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "bar", "name": "The White Star", "creator" : "Colin", "comment" : "good beer" },
+"geometry": { "type": "Point", "coordinates": [-1.397497,50.898094] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Hanoi bistro", "creator" : " Daisy", "comment" : " Good Vietnamese food" },
+"geometry": { "type": "Point", "coordinates": [ -1.4016102423279106, 50.902018958106964] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " pub", "name": "The Willow Tree", "creator" : " Tina", "comment" : " cozy pub with a fire" },
+"geometry": { "type": "Point", "coordinates": [-1.3080559, 51.06444931281902] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "place", "name": "Monterey Bay", "creator" : "Anieke", "comment" : "so many whales!" },
+"geometry": { "type": "Point", "coordinates": [-121.9380,36.78245] } }
 ] }
