@@ -44,5 +44,11 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " Boulangerie", "name": "La Parisienne", "creator" : " Caroline", "comment" : " Good bread and pastries" },
 "geometry": { "type": "Point", "coordinates": [ 2.324772, 48.841911] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "place", "name": "Cwm Penmachno", "creator" : "Steve", "comment" : "No internet No phone signal BLISS" },
-"geometry": { "type": "Point", "coordinates": [-3.803155,53.039587] } }
+"geometry": { "type": "Point", "coordinates": [-3.803155,53.039587] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "cafe", "name": "The Galley", "creator" : "Colin", "comment" : "very expensive" },
+"geometry": { "type": "Point", "coordinates": [-1.394880,50.892316] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "Restaurant", "name": "The Vaults", "creator" : "Esther", "comment" : "Pizza in Wavtage" },
+"geometry": { "type": "Point", "coordinates": [-1.4256430864334106,51.58842468261719] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Hanoi bistro", "creator" : " Daisy", "comment" : " Good Vietnamese food" },
+"geometry": { "type": "Point", "coordinates": [ -1.4016102423279106, 50.902018958106964] } }
 ] }
