@@ -58,5 +58,7 @@
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": "bar", "name": "The White Star", "creator" : "Colin", "comment" : "good beer" },
 "geometry": { "type": "Point", "coordinates": [-1.397497,50.898094] } },
 { "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " cafe", "name": "Hanoi bistro", "creator" : " Daisy", "comment" : " Good Vietnamese food" },
-"geometry": { "type": "Point", "coordinates": [ -1.4016102423279106, 50.902018958106964] } }
+"geometry": { "type": "Point", "coordinates": [ -1.4016102423279106, 50.902018958106964] } },
+{ "type": "Feature", "properties": { "marker-size": "medium", "marker-symbol": " pub", "name": "The Willow Tree", "creator" : " Tina", "comment" : " cozy pub with a fire" },
+"geometry": { "type": "Point", "coordinates": [ 51.06444931281902, -1.3080559411730468] } }
 ] }
